@@ -123,7 +123,7 @@ The project simulates a real-world organizational environment integrating:
 
 | Folder | Description |
 |--------|-------------|
-| 📄 project-report.pdf | Full infrastructure design document |
+| [project-report.pdf](https://github.com/Bikash-Raya/IT-Infrastructure-Design-Deployment-Homelab-Project/blob/main/IT-Infrastructure-Design-Deployment-Homelab-Project.pdf)| Full infrastructure design document |
 | 📄 README.md | Project overview |
 
 ---

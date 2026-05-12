@@ -105,6 +105,7 @@ The project simulates a real-world organizational environment integrating:
 ---
 
 ### 🛡️ Security Implementation
+- Fortinet Firewall
 - Applied access control policies
 - Secured network segmentation
 

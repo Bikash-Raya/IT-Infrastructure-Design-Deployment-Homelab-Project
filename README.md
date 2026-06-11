@@ -40,16 +40,16 @@ The project simulates a real-world organizational environment integrating:
 
 ## 🎯 Project Objectives
 
-| Task | Description | Status |
-|------|-------------|--------|
-| **1** | Design network architecture (LAN & Wi-Fi) | ✅ Completed |
-| **2** | Define infrastructure requirements | ✅ Completed |
-| **3** | Configure server environment | ✅ Completed |
-| **4** | Implement Active Directory (OU structure) | ✅ Completed |
-| **5** | Apply Role-Based Access Control (RBAC) | ✅ Completed |
-| **6** | Integrate Microsoft 365 services | ✅ Completed |
-| **7** | Configure network devices (switches, firewall, APs) | ✅ Completed |
-| **8** | Perform system validation testing | ✅ Completed |
+| Task | Description |
+|------|-------------|
+| **1** | Design network architecture (LAN & Wi-Fi) | 
+| **2** | Define infrastructure requirements | 
+| **3** | Configure server environment | 
+| **4** | Implement Active Directory (OU structure) |
+| **5** | Apply Role-Based Access Control (RBAC) |
+| **6** | Integrate Microsoft 365 services | 
+| **7** | Configure network devices (switches, firewall, APs) | 
+| **8** | Perform system validation testing | 
 
 ---
 

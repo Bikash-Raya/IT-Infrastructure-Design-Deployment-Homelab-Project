@@ -38,9 +38,9 @@ The project simulates a real-world organizational environment integrating:
 
 ---
 
-## 🎯 Project Objectives
+## 🎯 Project 
 
-| Task | Description |
+| Task | Objectives |
 |------|-------------|
 | **1** | Design network architecture (LAN & Wi-Fi) | 
 | **2** | Define infrastructure requirements | 

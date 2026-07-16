@@ -16,10 +16,17 @@
 
 ---
 
-**Prepared by:** Bikash Raya  
-**Project Type:** Enterprise Infrastructure Simulation  
+**Prepared by:** Bikash Raya
 
 </div>
+
+---
+
+## 📁 Full Lab Walkthrough — Proof of Work
+
+| File | Description |
+| --- | --- |
+| [IT-Infrastructure-Design-Deployment-Homelab-Project.pdf](./IT-Infrastructure-Design-Deployment-Homelab-Project.pdf) | Hands-on lab walkthrough with screenshots |
 
 ---
 
@@ -104,33 +111,30 @@ The project simulates a real-world organizational environment integrating:
 
 ---
 
-### 🛡️ Security Implementation
-- Fortinet Firewall
-- Applied access control policies
-- Secured network segmentation
-
----
-
 ### ✅ System Validation
 - Verified domain authentication
 - Tested user login across departments
 - Confirmed Microsoft 365 functionality
-- Ensured network connectivity and security policies
-
----
-
-## 📁 Repository Structure
-
-| Folder | Description |
-|--------|-------------|
-| [project-report.pdf](https://github.com/Bikash-Raya/IT-Infrastructure-Design-Deployment-Homelab-Project/blob/main/IT-Infrastructure-Design-Deployment-Homelab-Project.pdf)| Full infrastructure design document |
-| 📄 README.md | Project overview |
+- Ensured network connectivity
 
 ---
 
 ## 🎯 Key Takeaway
 
 > This project demonstrates end-to-end enterprise IT infrastructure design, combining networking, system administration, cloud integration, and security into a unified, scalable solution.
+
+---
+
+## 🔗 Related Projects
+
+> Part of the **Bikash Security Lab** series:
+> * [System Hardening Lab — Linux, Windows Server & AD](https://github.com/Bikash-Raya/system-hardening-lab-linux-windows-active-directory)
+> * [AD Enumeration — BloodHound & SharpHound](https://github.com/Bikash-Raya/AD-Enumeration-Bloodhound-Sharphound)
+> * [Azure IAM Security Lab](https://github.com/Bikash-Raya/azure-iam-security-lab)
+
+---
+
+> 📄 Thanks for reading! For a full hands-on walkthrough of this lab with screenshots — [download the lab report here](./IT-Infrastructure-Design-Deployment-Homelab-Project.pdf)
 
 ---
 
